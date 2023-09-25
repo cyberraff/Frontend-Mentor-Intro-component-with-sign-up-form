@@ -1,7 +1,6 @@
 # Frontend Mentor - Intro component with sign up form solution
 
-This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -12,6 +11,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
     - [Links](#links)
     - [Built with](#built-with)
   - [Author](#author)
+
 ### The challenge
 
 Users should be able to:
@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop-view.png)
+![](./Intro-component-with-sign-up-form-solution.png)
 
 ### Links
 
@@ -34,8 +34,8 @@ Users should be able to:
 ### Built with
 
 - Mobile-first workflow
-- [Yup](https://github.com/jquense/yup) - Yup is a schema builder for runtime value parsing and validation. 
-- [Formik](https://formik.org/) - Formik is the world's most popular open source form library for React and React Native. 
+- [Yup](https://github.com/jquense/yup) - Yup is a schema builder for runtime value parsing and validation.
+- [Formik](https://formik.org/) - Formik is the world's most popular open source form library for React and React Native.
 - [React](https://reactjs.org/) - JS library
 - [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework
 
