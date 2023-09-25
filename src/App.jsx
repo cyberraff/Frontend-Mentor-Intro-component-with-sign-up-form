@@ -5,7 +5,7 @@ import RegistrationForm from './Registration';
 function App() {
 	return (
 		<>
-			<div className=" lg:h-screen bg-[#ff7a7a] bg-[url('../bg-intro-mobile.png')] bg-no-repeat bg-cover text-white text-center text-2xl lg:bg-[url('../bg-intro-desktop.png')]  lg:flex items-center  ">
+			<div className=" lg:h-screen bg-[#ff7a7a] pb-24 bg-[url('../bg-intro-mobile.png')] bg-no-repeat bg-cover text-white text-center text-2xl lg:bg-[url('../bg-intro-desktop.png')]  lg:flex items-center  ">
 				<div className='p-12 lg:pr-5 lg:pl-36 xl:pl-48 2xl:pl-64 lg:w-1/2 lg:text-start'>
 					<h1 className='text-4xl lg:text-6xl lg:font-extrabold font-bold pt-12'>
 						Learn to code by

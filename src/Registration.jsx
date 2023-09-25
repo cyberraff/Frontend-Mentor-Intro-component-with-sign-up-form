@@ -28,7 +28,7 @@ const RegistrationForm = () => {
 	});
 
 	return (
-		<div className='rounded-2xl bg-white mx-12 p-10'>
+		<div className='rounded-2xl bg-white mx-12 p-10 shadow-xl drop-shadow-xl'>
 			<form onSubmit={formik.handleSubmit}>
 				<div className='mb-4 relative'>
 					<label htmlFor='firstName'></label>

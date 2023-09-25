@@ -1,11 +1,11 @@
-# Frontend Mentor - Four card feature section solution
+# Frontend Mentor - Intro component with sign up form solution
 
 This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ## Table of contents
 
-- [Frontend Mentor - Four card feature section solution](#frontend-mentor---four-card-feature-section-solution)
+- [Frontend Mentor - Intro component with sign up form solution](#frontend-mentor---intro-component-with-sign-up-form-solution)
   - [Table of contents](#table-of-contents)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
@@ -28,12 +28,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/cyberraff/four-card-feature-section)
-- Live Site URL: [Four Card Feature Section](https://four-card-feature-section-azure-three.vercel.app/)
+- Solution URL: [GitHub](https://github.com/cyberraff/Frontend-Mentor-Intro-component-with-sign-up-form)
+- Live Site URL: [Four Card Feature Section](https://frontend-mentor-intro-component-with-sign-up-form-orpin.vercel.app/)
 
 ### Built with
 
 - Mobile-first workflow
+- [Yup](https://github.com/jquense/yup) - Yup is a schema builder for runtime value parsing and validation. 
+- [Formik](https://formik.org/) - Formik is the world's most popular open source form library for React and React Native. 
 - [React](https://reactjs.org/) - JS library
 - [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework
 
